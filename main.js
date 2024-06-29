@@ -1,10 +1,13 @@
-// rtk-prompt-example 🚀
+// rtk-prompt-example 🚀"
 
 // Import the store and saveStoreState function from store.js
 import { store, saveStoreState } from './store.js'
 
 // Import the prompt library for creating a command-line interface
 import prompt from 'prompt'
+
+// import a counter from counter.js
+import { counter } from "./features/counter/counter.js
 
 // Subscribe to the store and log the current state on every change 🔍
 store.subscribe( () => {
