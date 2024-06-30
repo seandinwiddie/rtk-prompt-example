@@ -7,7 +7,7 @@ import { store, saveStoreState } from './store.js'
 import prompt from 'prompt'
 
 // import a counter from counter.js
-import { counter } from "./features/counter/counter.js
+import { counter } from './features/counter/counter.js'
 
 // Subscribe to the store and log the current state on every change 🔍
 store.subscribe( () => {

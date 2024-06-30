@@ -1,0 +1,427 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "package.json",
+			"settings":
+			{
+				"buffer_size": 300,
+				"line_ending": "Unix"
+			},
+			"undo_stack":
+			[
+				[
+					15,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPsBAAAAAAAA+wEAAAAAAAAkAAAAIC8vIPCfmoAgU3RhcnQgc2NyaXB0IChydW5zIG1haW4uanMp",
+					"AQAAAAAAAAABAAAAHAIAAAAAAAD7AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					18,
+					1,
+					"left_delete",
+					null,
+					"AQAAALEBAAAAAAAAsQEAAAAAAAAdAAAAIC8vIPCfkrsgSlNPTiBmaWxlIGRlcGVuZGVuY3k",
+					"AQAAAAAAAAABAAAAywEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					21,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHYBAAAAAAAAdgEAAAAAAAAlAAAAIC8vIPCfkrsgRmlsZSBzeXN0ZW0gZXh0cmEgZGVwZW5kZW5jeQ",
+					"AQAAAAAAAAABAAAAmAEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					24,
+					1,
+					"left_delete",
+					null,
+					"AQAAADwBAAAAAAAAPAEAAAAAAAAiAAAAIC8vIPCfk50gUHJvbXB0IGxpYnJhcnkgZGVwZW5kZW5jeQ",
+					"AQAAAAAAAAABAAAAWwEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					27,
+					1,
+					"left_delete",
+					null,
+					"AQAAAPwAAAAAAAAA/AAAAAAAAAAhAAAAIC8vIPCfkrsgTm9kZS5qcyB0eXBlIGRlZmluaXRpb25z",
+					"AQAAAAAAAAABAAAAGgEAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					30,
+					1,
+					"left_delete",
+					null,
+					"AQAAAL4AAAAAAAAAvgAAAAAAAAAkAAAAIC8vIPCfm6DvuI8gUmVkdXggVG9vbGtpdCBkZXBlbmRlbmN5",
+					"AQAAAAAAAAABAAAA3QAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					33,
+					1,
+					"left_delete",
+					null,
+					"AQAAAHEAAAAAAAAAcQAAAAAAAAAaAAAAIC8vIPCfk5wgTW9kdWxlIHR5cGUgKEVTTSk",
+					"AQAAAAAAAAABAAAAiAAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					36,
+					1,
+					"left_delete",
+					null,
+					"AQAAAEkAAAAAAAAASQAAAAAAAAAXAAAAIC8vIPCfkrsgVmVyc2lvbiBudW1iZXI",
+					"AQAAAAAAAAABAAAAXQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					39,
+					1,
+					"left_delete",
+					null,
+					"AQAAACEAAAAAAAAAIQAAAAAAAAAVAAAAIC8vIPCfk6YgUGFja2FnZSBuYW1l",
+					"AQAAAAAAAAABAAAAMwAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				],
+				[
+					40,
+					1,
+					"revert",
+					null,
+					"AgAAAAAAAAAAAAAAAAAAAAAAAAAsAQAAewogICJuYW1lIjogInJ0ay1wcm9tcHQtZXhhbXBsZSIsCiAgInZlcnNpb24iOiAiMS4wLjAiLAogICJ0eXBlIjogIm1vZHVsZSIsCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJAcmVkdXhqcy90b29sa2l0IjogIl4xLjguMiIsCiAgICAiQHR5cGVzL25vZGUiOiAiXjIwLjEwLjAiLAogICAgImZsYXRpcm9uL3Byb21wdCI6ICJeMC4yLjE0IiwKICAgICJmcy1leHRyYSI6ICJeMTAuMS4wIiwKICAgICJqc29uZmlsZSI6ICJeNi4xLjAiCiAgfSwKICAic2NyaXB0cyI6IHsKICAgICJzdGFydCI6ICJub2RlIG1haW4uanMiCiAgfQp9AAAAAAAAAAAsAQAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+				]
+			]
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"be",
+				"HTMLBeautify"
+			],
+			[
+				"pa",
+				"Package Control: Install Package"
+			],
+			[
+				"in",
+				"Package Control: Install Package"
+			],
+			[
+				"term",
+				"Terminal: Open"
+			],
+			[
+				"ter",
+				"Terminal: Open"
+			],
+			[
+				"markdown pre",
+				"Markdown Preview: Preview in Browser"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"ayu",
+				"ayu: Activate theme"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 216.0,
+		"history":
+		[
+			"view.run_command(\"example\")",
+			"dir",
+			"ls"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/features",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-prompt-example"
+	],
+	"file_history":
+	[
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/package.json",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/features/counter/counter.js",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/features/counter/counterSlice.js",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/main.js",
+		"/Users/seandinwiddie/Documents/AVENGE MY CHILDREN.txt",
+		"/Users/seandinwiddie/Documents/cv.svg",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/store-state.json",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/README.md",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/store.js",
+		"/Users/seandinwiddie/Documents/GitHub/seandinwiddie.com/blog/rtk-promt-example/index.html",
+		"/Users/seandinwiddie/Documents/202403170139.srt",
+		"/Users/seandinwiddie/Documents/GitHub/fpmb/index.md",
+		"/Users/seandinwiddie/Library/Application Support/Sublime Text 3/Packages/User/hello_world.py",
+		"/Users/seandinwiddie/Downloads/The Chthonic Echo- Whispers of the Forgotten.txt",
+		"/Users/seandinwiddie/Downloads/The Chthonic Echo- The Veil Between Realms.txt",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/tsconfig.json",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/webpack.config.js",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/package.json",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/src/index.ts",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/ep3/readme.md",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/ep3/index.html",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/index.ts",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/babel.config.json",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/babel.config.js",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/index.js",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/ep1/index.html",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/public/index.html",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/ep2/index.html",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/index.html",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/readme.md",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/README.md",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/episode1/readme.md",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/ep2/readme.md",
+		"/Users/seandinwiddie/Documents/GitHub/rlb/episode1/index.html",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/package.json",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/src/reducers.js",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/src/db.js",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/src/app.js",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/src/store.js",
+		"/Users/seandinwiddie/Documents/GitHub/sdin.dev/openai.html",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/readme.md",
+		"/Users/seandinwiddie/Public/js/character.js",
+		"/Users/seandinwiddie/Public/js/app.js",
+		"/Users/seandinwiddie/Public/index.html",
+		"/Users/seandinwiddie/Public/readme.md",
+		"/Users/seandinwiddie/Public/READMEs/architecture.md",
+		"/Users/seandinwiddie/Public/scripts/reducers/README.md",
+		"/Users/seandinwiddie/Public/scripts/components/README.md",
+		"/Users/seandinwiddie/Public/app.js",
+		"/Users/seandinwiddie/Documents/sample.html",
+		"/Users/seandinwiddie/Documents/GitHub/compliance-fork/reactDemo/index.cfm",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/store.js",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/reducers.js",
+		"/Users/seandinwiddie/Documents/GitHub/night-lilies-mud/app.js",
+		"/Users/seandinwiddie/Documents/GitHub/path.ogenic.us/index.html.old",
+		"/Users/seandinwiddie/Documents/GitHub/path.ogenic.us/index.html",
+		"/Users/seandinwiddie/Documents/202212131308.docx",
+		"/Users/seandinwiddie/202209241238",
+		"/Users/seandinwiddie/Documents/GitHub/fiction/README.md",
+		"/Users/seandinwiddie/Documents/GitHub/adultstherapy.com/index.html",
+		"/Applications/ColdFusion2021/cfusion/wwwroot/compliance/app/index.cfm",
+		"/Applications/ColdFusion2021/cfusion/wwwroot/compliance/app/cfc/UDFs/get/tmp.js",
+		"/Applications/ColdFusion2021/cfusion/wwwroot/compliance/app/participantReminderRunning.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/participantReminderForm.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resResults.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/reportsForm_companies.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/reportsDocument.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/report7Content.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resResultsData.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resController.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resDocument.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/index.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resContent.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/resNotification.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/compAction.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/compForm.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/labels.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/css/core.css",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/css/core.css.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/consList.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/consListData.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/head.cfm",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/application.cfc",
+		"/C/Users/seand/OneDrive/Documents/GitHub/compliance/app/appOnErrorMessage.cfm"
+	],
+	"find":
+	{
+		"height": 35.0
+	},
+	"find_in_files":
+	{
+		"height": 512.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"\""
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"'"
+		],
+		"reverse": false,
+		"scrollbar_highlights": true,
+		"show_context": true,
+		"use_buffer2": true,
+		"use_gitignore": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "package.json",
+					"selected": true,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 300,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								33,
+								33
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JSON/JSON.sublime-syntax",
+							"word_wrap": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"stack_multiselect": false,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 35.0
+	},
+	"input":
+	{
+		"height": 158.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": false,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "rtk-prompt-example.sublime-project",
+	"replace":
+	{
+		"height": 100.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"C:\\Users\\seand\\OneDrive\\Documents\\GitHub\\seandinwiddie.com\\seandinwiddie-com.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": false,
+	"side_bar_visible": true,
+	"side_bar_width": 314.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
