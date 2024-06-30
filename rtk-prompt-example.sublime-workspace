@@ -8,93 +8,24 @@
 	"buffers":
 	[
 		{
-			"file": "package.json",
+			"file": "features/counter/counter.js",
 			"settings":
 			{
-				"buffer_size": 300,
+				"buffer_size": 91,
+				"encoding": "UTF-8",
 				"line_ending": "Unix"
 			},
 			"undo_stack":
 			[
 				[
-					15,
+					4,
 					1,
-					"left_delete",
-					null,
-					"AQAAAPsBAAAAAAAA+wEAAAAAAAAkAAAAIC8vIPCfmoAgU3RhcnQgc2NyaXB0IChydW5zIG1haW4uanMp",
-					"AQAAAAAAAAABAAAAHAIAAAAAAAD7AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					18,
-					1,
-					"left_delete",
-					null,
-					"AQAAALEBAAAAAAAAsQEAAAAAAAAdAAAAIC8vIPCfkrsgSlNPTiBmaWxlIGRlcGVuZGVuY3k",
-					"AQAAAAAAAAABAAAAywEAAAAAAACxAQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					21,
-					1,
-					"left_delete",
-					null,
-					"AQAAAHYBAAAAAAAAdgEAAAAAAAAlAAAAIC8vIPCfkrsgRmlsZSBzeXN0ZW0gZXh0cmEgZGVwZW5kZW5jeQ",
-					"AQAAAAAAAAABAAAAmAEAAAAAAAB2AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					24,
-					1,
-					"left_delete",
-					null,
-					"AQAAADwBAAAAAAAAPAEAAAAAAAAiAAAAIC8vIPCfk50gUHJvbXB0IGxpYnJhcnkgZGVwZW5kZW5jeQ",
-					"AQAAAAAAAAABAAAAWwEAAAAAAAA8AQAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					27,
-					1,
-					"left_delete",
-					null,
-					"AQAAAPwAAAAAAAAA/AAAAAAAAAAhAAAAIC8vIPCfkrsgTm9kZS5qcyB0eXBlIGRlZmluaXRpb25z",
-					"AQAAAAAAAAABAAAAGgEAAAAAAAD8AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					30,
-					1,
-					"left_delete",
-					null,
-					"AQAAAL4AAAAAAAAAvgAAAAAAAAAkAAAAIC8vIPCfm6DvuI8gUmVkdXggVG9vbGtpdCBkZXBlbmRlbmN5",
-					"AQAAAAAAAAABAAAA3QAAAAAAAAC+AAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					33,
-					1,
-					"left_delete",
-					null,
-					"AQAAAHEAAAAAAAAAcQAAAAAAAAAaAAAAIC8vIPCfk5wgTW9kdWxlIHR5cGUgKEVTTSk",
-					"AQAAAAAAAAABAAAAiAAAAAAAAABxAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					36,
-					1,
-					"left_delete",
-					null,
-					"AQAAAEkAAAAAAAAASQAAAAAAAAAXAAAAIC8vIPCfkrsgVmVyc2lvbiBudW1iZXI",
-					"AQAAAAAAAAABAAAAXQAAAAAAAABJAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					39,
-					1,
-					"left_delete",
-					null,
-					"AQAAACEAAAAAAAAAIQAAAAAAAAAVAAAAIC8vIPCfk6YgUGFja2FnZSBuYW1l",
-					"AQAAAAAAAAABAAAAMwAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
-				],
-				[
-					40,
-					1,
-					"revert",
-					null,
-					"AgAAAAAAAAAAAAAAAAAAAAAAAAAsAQAAewogICJuYW1lIjogInJ0ay1wcm9tcHQtZXhhbXBsZSIsCiAgInZlcnNpb24iOiAiMS4wLjAiLAogICJ0eXBlIjogIm1vZHVsZSIsCiAgImRlcGVuZGVuY2llcyI6IHsKICAgICJAcmVkdXhqcy90b29sa2l0IjogIl4xLjguMiIsCiAgICAiQHR5cGVzL25vZGUiOiAiXjIwLjEwLjAiLAogICAgImZsYXRpcm9uL3Byb21wdCI6ICJeMC4yLjE0IiwKICAgICJmcy1leHRyYSI6ICJeMTAuMS4wIiwKICAgICJqc29uZmlsZSI6ICJeNi4xLjAiCiAgfSwKICAic2NyaXB0cyI6IHsKICAgICJzdGFydCI6ICJub2RlIG1haW4uanMiCiAgfQp9AAAAAAAAAAAsAQAAAAAAAAAAAAA",
-					"AQAAAAAAAAABAAAAIQAAAAAAAAAhAAAAAAAAAAAAAAAAAPC/"
+					"insert",
+					{
+						"characters": "//"
+					},
+					"AgAAAAwAAAAAAAAADQAAAAAAAAAAAAAADQAAAAAAAAAOAAAAAAAAAAAAAAA",
+					"AQAAAAAAAAABAAAADAAAAAAAAAAMAAAAAAAAAAAAAAAAAPC/"
 				]
 			]
 		}
@@ -176,12 +107,13 @@
 	[
 		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example",
 		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/features",
-		"/Users/seandinwiddie/Documents/GitHub/rtk-prompt-example"
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/features/counter"
 	],
 	"file_history":
 	[
-		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/package.json",
 		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/features/counter/counter.js",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/package.json",
+		"/Users/seandinwiddie/Documents/GitHub/rtk-prompt-example/features/counter/counter.js",
 		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/features/counter/counterSlice.js",
 		"/Users/seandinwiddie/Documents/GitHub/rtk-promt-example/rtk-prompt-example/main.js",
 		"/Users/seandinwiddie/Documents/AVENGE MY CHILDREN.txt",
@@ -306,26 +238,25 @@
 			[
 				{
 					"buffer": 0,
-					"file": "package.json",
+					"file": "features/counter/counter.js",
 					"selected": true,
 					"semi_transient": false,
 					"settings":
 					{
-						"buffer_size": 300,
+						"buffer_size": 91,
 						"regions":
 						{
 						},
 						"selection":
 						[
 							[
-								33,
-								33
+								14,
+								14
 							]
 						],
 						"settings":
 						{
-							"syntax": "Packages/JSON/JSON.sublime-syntax",
-							"word_wrap": true
+							"syntax": "Packages/JavaScript/JavaScript.sublime-syntax"
 						},
 						"translation.x": 0.0,
 						"translation.y": 0.0,
@@ -377,7 +308,7 @@
 	"project": "rtk-prompt-example.sublime-project",
 	"replace":
 	{
-		"height": 100.0
+		"height": 66.0
 	},
 	"save_all_on_build": true,
 	"select_file":
