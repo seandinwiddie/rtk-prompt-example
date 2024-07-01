@@ -4,7 +4,6 @@
 import * as fs from 'fs'
 
 import { createAsyncThunk, createSlice } from "@reduxjs/toolkit"
-//import { store, saveStoreState } from "../../store.js"
 
 // Define the initial state of the counter 📊
 const initialState = () => {
